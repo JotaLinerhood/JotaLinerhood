@@ -4,15 +4,20 @@
   </a>
 </div>
 
-<img align="center" alt="" src="https://cdn.discordapp.com/attachments/634025687547772938/1364765233268396083/github_banner2.png?ex=680adc2b&is=68098aab&hm=222e185e94601c21065752e87f0d9418ececf44de8ca07352f929be44e63aae3&">
+<img align="center" alt="" src="https://i.imgur.com/AghNiPH.png">
 
 #
+<div style="text-align: center;" align="center">
+  
+### *Sobre Mim*
 
 Oi! Meu nome é João Vitor, mas meu apelido/nickname é Jota! Tenho 20 anos, sou artista, animador e começando em programação front-end, aprendendo Javascript, HTML e CSS. Atualmente estou cursando Jogos Digitais e faço curso da Ford Enter para desenvolvimento front-end, sendo apaixonado por desenvolvimento de jogos digitais e sites interativos, já tendo desenvolvido um [jogo de terror](https://gamejolt.com/games/fearground/844587) baseado na franquia de mesmo gênero Five Nights at Freddy's utilizando do motor Clickteam Fusion 2.5.
 
 #
 
-<h3 align="center"> Stack Atual</h3>
+<div style="text-align: center;" align="center">
+
+### *Stack Atual*
 
 <div align="center">
   <img loading= "lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -26,7 +31,7 @@ Oi! Meu nome é João Vitor, mas meu apelido/nickname é Jota! Tenho 20 anos, so
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4250&pause=650&color=2045F7&center=true&multiline=true&width=435&lines=%E2%8A%B9+%22Sonhos+s%C3%A3o+como+constela%C3%A7%C3%B5es...;Tra%C3%A7e+os+seus+e+siga-os.%22+%E2%8A%B9" alt="Typing SVG" /></a>
 </div>
 
-<img loading = "lazy" img align="center" src="https://cdn.discordapp.com/attachments/634025687547772938/1364713931720884374/jayden-im-blue.gif?ex=680aac64&is=68095ae4&hm=896e1d71c63a9e91b5e06a62f56f78a2992eed66ee18241c18fdf63a45e3b5a3&">
+<img loading = "lazy" img align="center" src="https://i.imgur.com/pyrWo2u.gif">
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4250&pause=650&color=2045F7&center=true&multiline=true&width=435&lines=%E2%8A%B9+%22Sonhos+s%C3%A3o+como+constela%C3%A7%C3%B5es...;Tra%C3%A7e+os+seus+e+siga-os.%22+%E2%8A%B9" alt="Typing SVG" /></a>
