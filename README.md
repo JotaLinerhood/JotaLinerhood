@@ -11,7 +11,9 @@
   
 ### *Sobre Mim*
 
-Oi! Meu nome é João Vitor, mas meu apelido/nickname é Jota! Tenho 20 anos, sou artista, animador e começando em programação front-end, aprendendo Javascript, HTML e CSS. Atualmente estou cursando Jogos Digitais e faço curso da Ford Enter para desenvolvimento front-end, sendo apaixonado por desenvolvimento de jogos digitais e sites interativos, já tendo desenvolvido um [jogo de terror](https://gamejolt.com/games/fearground/844587) baseado na franquia de mesmo gênero Five Nights at Freddy's utilizando do motor Clickteam Fusion 2.5.
+Oi! Meu nome é João Vitor, mas meu apelido/nickname é Jota! Tenho 20 anos, sou artista, animador e começando em programação front-end, aprendendo Javascript, HTML e CSS. Cursei Jogos Digitais e curso da Ford Enter para desenvolvimento front-end, sendo apaixonado por desenvolvimento de jogos digitais e sites interativos, já tendo desenvolvido um [jogo de terror](https://gamejolt.com/games/fearground/844587) baseado na franquia de mesmo gênero Five Nights at Freddy's utilizando do motor Clickteam Fusion 2.5.
+
+Atualmente, cursando Análise e Desenvolvimento de Sistemas na Fundação Visconde de Cairu, buscando maior aprofundamento e crescimento de minhas habilidades.
 
 #
 
