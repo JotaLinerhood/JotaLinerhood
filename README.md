@@ -24,7 +24,7 @@ Atualmente, cursando Análise e Desenvolvimento de Sistemas na Fundação Viscon
 <div align="center">
   <img loading= "lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img loading= "lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/>
-  <img loading= "lazy" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/>
+  <img loading= "lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/>
   <img loading= "lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img loading= "lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>
   <img loading= "lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
@@ -49,9 +49,9 @@ Atualmente, cursando Análise e Desenvolvimento de Sistemas na Fundação Viscon
 ### *Acompanhe meu status GitHub!*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JotaLinerhood&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JotaLinerhood&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaLinerhood&layout=compact&langs_count=4&hide=html,scss,less&bg_color=000000&title_color=FF00F6&text_color=8B8B8B&border_radius=3&border_color=561760" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JotaLinerhood&layout=compact&langs_count=4&hide=html,scss,less&bg_color=000000&title_color=FF00F6&text_color=8B8B8B&border_radius=3&border_color=561760" />
 </div>
           
   
